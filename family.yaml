@@ -1,0 +1,22 @@
+family:
+  children:
+  - name: Veli
+    eye-color: blue
+  - name: Deni
+    eye-color: green
+  mother: Iva
+  father: Mitko
+adress: "confidential"
+members: 4
+
+
+
+
+family-json: {
+"children": [
+  {"name": "Veli","eye-color":"blue"},
+  {"name": "Deni","eye-color":"green"},
+], 
+"mother": "Iva",
+"father": "Mitko",
+}
